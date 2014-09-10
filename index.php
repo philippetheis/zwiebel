@@ -355,8 +355,7 @@
 		<p>Eine ausf&uuml;hrliche Anleitung zum Bau des zwiebel finden Sie auf
 			<a href="http://spiegel.de/netzwelt/gadgets/raspberry-pi-bauanleitung-des-anonymisierenden-tor-routers-zwiebel-a-907568.html">SPIEGEL ONLINE: Bauanleitung des zwiebel</a>
 		</p>
-		<p>Bitte fuehren Sie bei Problemen mit ihrem zwiebel zuerst ein Update
-		&uuml;ber den unteren Button durch, bevor sie einen <a href="mailto:peter_gotzner@spiegel.de">Fehler melden</a>
+		<p>
 		</p>
 		<p>ACHTUNG: Sobald sie ihren Internetverkehr zur Anonymiserung
 			durch das Tor-Netzwerk leiten, ist diese Konfigurationsmaske nicht mehr
@@ -566,19 +565,18 @@
 				<tr>
 
 					<td class="impressum" colspan="3">
-							Den Quellcode und Updates koennen Sie unter <a href="https://github.com/spiegelonline/sponionpi">https://github.com/spiegelonline/sponionpi</a>
-							herunterladen.
+							blablabla
 					</td>
 				<tr>
 					<td class="impressum" colspan="3">	Eine Kurzanleitung finden Sie in der <a href="README.txt">README.txt</a>.
 				</tr>
 				<tr>	
 					<td class="impressum" colspan="3">
-							<a href="http://www.spiegel.de/netzwelt">SPON Netzwelt</a>
+							<a href="http://www.blabla.de">blablabla</a>
 					</td>
 				<tr>
 					<td class="impressum" colspan="3">
-							Fehler bitte <a href="mailto:peter_gotzner@spiegel.de">hier</a> melden.
+							Fehler bitte <a href="mailto:blabla@blabla.de">hier</a> melden.
 					</td>
 				</tr>
 
