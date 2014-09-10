@@ -6,11 +6,8 @@
 		<!-- admin interface zwiebel v0.1 2013-06-25 -->
 		<?php $version="0.1"  ?>
 
-		<title>SPONion Pi v<?php echo $version ?> admin interface</title>
-		<?php $disclaimer = "Bitte beachten Sie, dass es sich bei der nachfolgenden Bastelanleitung 
-				um einen redaktionellen Service handelt. Das Netzwelt-Ressort hat den zwiebel zwar selbst ausf&uuml;hrlich getestet und die Anleitung nach bestem Wissen erstellt,
-				&uuml;bernimmt aber keinerlei Gew&auml;hr für die Anleitung und das Endprodukt.
-				Der Nachbau erfolgt auf eigenes Risiko, SPIEGEL ONLINE &uuml;bernimmt insofern keine Haftung."
+		<title>Zwiebel v<?php echo $version ?> admin interface</title>
+		<?php $disclaimer = "Zwiebel Konfiguration"
 		?>
 
 		<style type="text/css">
